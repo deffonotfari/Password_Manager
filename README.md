@@ -91,8 +91,6 @@ That's it! The Password Manager simplifies the process of managing your login de
 | Linen | ![#ebe2bd](https://via.placeholder.com/10/ebe2bd?text=+) #ebe2bd |
 | Isabelline | ![#f1ece6](https://via.placeholder.com/10/f1ece6?text=+) #f1ece6 |
 
-![Color Palette](https://github.com/deffonotfari/password-manager/assets/105233354/2cd4dd61-c5e7-4532-bffc-baeb11821697)
-
 
 ## Acknowledgements
 
