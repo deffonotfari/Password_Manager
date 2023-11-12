@@ -4,7 +4,7 @@ The Password Manager is a secure and user-friendly web application designed to s
 
 The following is my logo, which I have created myself
 
-         ![logo](https://github.com/deffonotfari/password-manager/assets/105233354/f4c5c4e7-3bba-46b4-9c2a-579c52ca939b)
+![logo](https://github.com/deffonotfari/password-manager/assets/105233354/f4c5c4e7-3bba-46b4-9c2a-579c52ca939b)
 
 
 ## Badges
