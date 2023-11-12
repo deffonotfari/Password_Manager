@@ -1,13 +1,18 @@
+
 # Password Manager
 
 The Password Manager is a secure and user-friendly web application designed to simplify and enhance the way users manage their login credentials. In an era of multiple online accounts, remembering passwords for various websites can be challenging. My web application provides a centralized solution, allowing users to store, search, and update their login details effortlessly.
 
-The following is my logo, which I have created myself
 
-![logo](https://github.com/deffonotfari/password-manager/assets/105233354/f4c5c4e7-3bba-46b4-9c2a-579c52ca939b)
+- Logo:
+  
+![logo](https://github.com/deffonotfari/password-manager/assets/105233354/baced311-bf41-49d8-8bff-2a67428350d7)
+
 
 
 ## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
 - Version:  ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 - Maintained: ![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)
@@ -73,7 +78,7 @@ If your login details change, easily update the existing record. Locate the entr
 That's it! The Password Manager simplifies the process of managing your login details, providing a secure and centralized solution for all your accounts.
 
 ## Features
-
+These are the features of my web application:
 - Home page
 - Navigation Menu
 - Add and update records
@@ -98,6 +103,12 @@ That's it! The Password Manager simplifies the process of managing your login de
  - [Coolors](https://coolors.co/3a2d27-a48374-cbac8d-d1c7bd-ebe2db-f1ece6)
  
 
+## Screenshots
+
+Homepage:
+<img width="1439" alt="Screenshot 2023-11-12 at 16 34 31" src="https://github.com/deffonotfari/password-manager/assets/105233354/e21e9fc4-02a0-4304-b281-c92fdcd63c2a">
+
+
 
 ## Feedback
 
@@ -107,3 +118,4 @@ If you have any feedback, please reach out to us at alamfariha560@gmail.com
 ## Authors
 
 - [@deffonotfari](https://github.com/deffonotfari)
+
