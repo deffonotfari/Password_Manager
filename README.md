@@ -1,4 +1,3 @@
-
 # Password Manager
 
 The Password Manager is a secure and user-friendly web application designed to simplify and enhance the way users manage their login credentials. In an era of multiple online accounts, remembering passwords for various websites can be challenging. My web application provides a centralized solution, allowing users to store, search, and update their login details effortlessly.
@@ -11,9 +10,6 @@ The following is the logo for my website, which I have created myself:
 
 
 ## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 - Version:  ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 - Maintained: ![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)
 - Last Commit: ![Last Commit](https://img.shields.io/github/last-commit/user/repo.svg)
