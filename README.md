@@ -103,7 +103,7 @@ These are the features of my web application:
 ## Screenshots
 
 Homepage:
-<img width="1439" alt="Screenshot 2023-11-12 at 16 34 31" src="https://github.com/deffonotfari/password-manager/assets/105233354/e21e9fc4-02a0-4304-b281-c92fdcd63c2a">
+![Homepage]([https://github.com/deffonotfari/password-manager/assets/105233354/baced311-bf41-49d8-8bff-2a67428350d7](https://github.com/deffonotfari/Password_Manager/assets/105233354/21de23db-2c39-4e3c-83f2-bc8a32b0d682))
 
 
 
