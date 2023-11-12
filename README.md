@@ -4,7 +4,7 @@
 The Password Manager is a secure and user-friendly web application designed to simplify and enhance the way users manage their login credentials. In an era of multiple online accounts, remembering passwords for various websites can be challenging. My web application provides a centralized solution, allowing users to store, search, and update their login details effortlessly.
 
 
-- Logo:
+The following is the logo for my website, which I have created myself:
   
 ![logo](https://github.com/deffonotfari/password-manager/assets/105233354/baced311-bf41-49d8-8bff-2a67428350d7)
 
