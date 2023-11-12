@@ -99,8 +99,9 @@ These are the features of my web application:
 
 ## Acknowledgements
 
- - [Davis Humphries](https://www.davishumphries.com/)
- - [Coolors](https://coolors.co/3a2d27-a48374-cbac8d-d1c7bd-ebe2db-f1ece6)
+ - [Davis Humphries](https://www.davishumphries.com/) : Retain an image for inspiration for colour palette
+ - [Coolors](https://coolors.co/3a2d27-a48374-cbac8d-d1c7bd-ebe2db-f1ece6) : Generates a colour palette for web application
+ - [Magic Pattern](https://www.magicpattern.design/tools/blob-generator) : Create Blob for Home screen
  
 
 ## Screenshots
