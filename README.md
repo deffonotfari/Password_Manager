@@ -84,7 +84,7 @@ These are the features of my web application:
 | Timberwolf | ![#d1c7bd](https://via.placeholder.com/10/d1c7bd?text=+) #d1c7bd |
 | Linen | ![#ebe2bd](https://via.placeholder.com/10/ebe2bd?text=+) #ebe2bd |
 | Isabelline | ![#f1ece6](https://via.placeholder.com/10/f1ece6?text=+) #f1ece6 |
-
+| Bone | ![#e3d8c9](https://via.placeholder.com/10/e3d8c9?text=+) #e3d8c9 |
 
 ## Acknowledgements
 
